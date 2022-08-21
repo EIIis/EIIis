@@ -14,13 +14,9 @@
    - Unix/Linux (Windows for gaming only 💯 )
 ## 😎 About me
 
-- 🤷🏽‍♂️ About Me: My name is Ellis Alcantara, I'm a current student at the University of Alabama - Birmingham, where I study computer science and math! This summer, I'll be interning at Amazon Lab126 as a Quality Assurance Engineer in Sunnyvale, California!
-<p align="center">
-  <img height="180em" src="https://user-images.githubusercontent.com/47289830/151485337-ef8eec31-a117-4dfa-bb83-9aaf3cce4c77.gif" />
-</p>
-
+- 🤷🏽‍♂️ About Me: My name is Ellis Alcantara, I'm a current student at the University of Alabama - Birmingham, where I study computer science and math! This past summer (summer 2022), I interned at Amazon Lab126, specifically on the Platform QA team under Consumer Robotics (Astro), as a Software QA Engineer. 
 - 😄 Pronouns: He/Him/His
-- 📚 What I'm Learning: I'm currently learning the 'MERN' stack, specifically MongoDB and Express.js. Now that I'm going to be a QAE intern, I plan on learning some automation frameworks like Selenium and JUnit.
+- 📚 What I'm Learning: I'm currently learning the 'MERN' stack, specifically MongoDB and Express.js, as well as practicing Python. I'm also always practicing DS&A through Leetcode hehe.
 - 🔭 I hope to dive into machine learning after I get comfortable with the MERN stack so that's my next goal!
 - 💬 I love talking with new people so feel free to hit me up! Socials at the bottom!
 
