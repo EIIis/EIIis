@@ -1,11 +1,9 @@
-# Hi there, I'm Ellis  🥳 - aka [Homepage][website]
-
-
+# Hi there, I'm Ellis 🥳 - aka [Homepage][website]
 
 ## I'm a Computer Science Student located in Alabama 🤠
 
 - Maxed Oldschool Runescape Player.
-- Decent 1 Def Oldschool Runescape Pure
+- ~~Decent 1 Def Oldschool Runescape Pure~~ Has since been banned 😔
 - Pretty good Rebirth Resurgance WZ Player
 
 ## Professional Side 👨🏽‍💻
