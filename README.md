@@ -28,4 +28,4 @@
   </a>
 </div>
 
-[website]: https://eiiis.github.io/portfolio/
+[website]: https://alcantinez.dev/
