@@ -9,8 +9,7 @@
 ## Professional Side 👨🏽‍💻
 
 - Ex Amazon Lab126, Expedia Group, and Workday
-- Experience in Software Engineering, Software Quality Assurance, Data Analytics, Technical Program Management, and Product Managment
-- Professional interest primarily in growth, strategy, and mainly product engineering/management.
+- Professional interest primarily in growth, strategy, software engineering, and product engineering/management.
 
 ## Socials + Get in touch 📱
 
