@@ -8,10 +8,9 @@
 
 ## Professional Side 👨🏽‍💻
 
-- Experience in Software Engineering, Software Quality Assurance, Data Analytics, Technical Program Management, and Product Managment
 - Ex Amazon Lab126, Expedia Group, and Workday
-- Currently focused on product engineering with a focus on backend deveolpment by investing my time in creating QOL tool development and personal growth projects
-- Professional interest primarily in growth, strategy, and mainly product engineering/management. Feel free to reach out to talk about these roles!
+- Experience in Software Engineering, Software Quality Assurance, Data Analytics, Technical Program Management, and Product Managment
+- Professional interest primarily in growth, strategy, and mainly product engineering/management.
 
 ## Socials + Get in touch 📱
 
